@@ -1,0 +1,81 @@
+/* Add these styles to your existing styles or create a new CSS file */
+
+body {
+    background-color: #f8f9fa; /* Light gray background color */
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.head-text {
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.header {
+    margin: 5px auto;
+    padding: 10px 0 30px 0;
+}
+
+#search-bar {
+    border-radius: 5px;
+}
+
+#btn {
+    border-radius: 5px;
+}
+
+#today-forcast, #five-day-forcast {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    border: none;
+}
+
+#temperature {
+    font-size: 2em; /* Adjust the font size as needed */
+}
+
+#description {
+    font-weight: bold;
+}
+
+#location {
+    font-size: 2em; /* Adjust the font size as needed */
+}
+
+#icon img {
+    max-width: 100%;
+    height: auto;
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.wind-direction {
+    font-family: 'Material Symbols Outlined', sans-serif;
+}
+
+.card {
+    margin: 0 0 20px 20px;
+}
+
+.card-body {
+    padding: 20px;
+    background-color: lightgrey;
+}
+
+.text-light {
+    color: #3a3737 !important;
+}
+
+/* Add more styles as needed */
